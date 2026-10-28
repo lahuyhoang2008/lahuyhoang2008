@@ -1,62 +1,78 @@
-# Hi, I'm La Huy Hoang 👋
+# La Huy Hoang
 
-🎓 Data Science & Artificial Intelligence student at **Hanoi University of Science and Technology (HUST)** — ITE10
+**Data Science & Artificial Intelligence Student | Competitive Programmer | AI/ML Developer**
 
-💻 **Competitive Programmer | AI/ML Enthusiast | Programming Educator**
+📍 Northern Vietnam  
+🎓 Hanoi University of Science and Technology (HUST) — DSAI, ITE10  
+📧 [lahuyhoang2008@gmail.com](mailto:lahuyhoang2008@gmail.com)  
+💻 [GitHub Profile](https://github.com/lahuyhoang2008) | [Penwin](https://penwin.io.vn/)
 
-I enjoy solving challenging algorithmic problems, exploring AI architectures, and building practical software projects. Beyond coding, I teach competitive programming and help young learners develop their problem-solving skills.
+**Date of Birth:** 19/6/2008
 
-- 🏆 Competed in national and international programming and AI competitions.
-- 🤖 Exploring Computer Vision, NLP, Deep Learning, and Quantitative Finance.
-- 🚀 Building educational technology projects, including StudyHub.
-- 👨‍🏫 Co-founder and mentor at [Penwin](https://penwin.io.vn/), and involved in programming education and CodeCamp activities.
-
-*Learn. Build. Compete. Share.*
+<!-- Replace YOUR_IMAGE_URL with a publicly accessible image URL -->
+![Profile Photo](https://penwin.io.vn/materials/hoang.jpg)
 
 ---
 
-## 🏆 Achievements
+## PROFESSIONAL SUMMARY
 
-### International
+Data Science and Artificial Intelligence student at Hanoi University of Science and Technology with a strong background in competitive programming and practical AI/ML experimentation.
 
+Experienced in algorithmic problem-solving, deep learning projects, and programming education. Interested in developing machine learning solutions, building educational technology, and applying AI to real-world problems.
+
+## EDUCATION
+
+### Hanoi University of Science and Technology (HUST)
+**Data Science and Artificial Intelligence (DSAI) — ITE10**
+- Undergraduate student
+
+### High School for Gifted Students, Hanoi National University of Education (HNUE)
+**Specialized High School Program**
+
+## HONORS & ACHIEVEMENTS
+
+### International Competition
 - 🥉 **Bronze Medal — Central European Olympiad in Artificial Intelligence (CEOAI)**
   - Represented Vietnam in an international AI competition.
 
-### National
-
-- 🥇 **Rank #2 — Northern Vietnam Gifted High Schools Grade 10 Competitive Programming Contest**
-- 🥇 **Gold Prize — HSGS Competitive Programming Olympiad**
-- 🥇 **Gold Prize — HNUE Competitive Programming Olympiad**
-- 🥇 **Gold Prize — VNU Competitive Programming Olympiad**
+### National Competition
+- 🥇 **Rank #2** — Northern Vietnam Gifted High Schools Grade 10 Competitive Programming Contest
+- 🥇 **Gold Prize** — HSGS Competitive Programming Olympiad
+- 🥇 **Gold Prize** — HNUE Competitive Programming Olympiad
+- 🥇 **Gold Prize** — VNU Competitive Programming Olympiad
 - 🥉 **Third Prize — Vietnam Olympiad in Informatics (VOI)**
-- 
----
 
-## 🎓 Education
+## EXPERIENCE & LEADERSHIP
 
-**Hanoi University of Science and Technology (HUST)**
-- Data Science and Artificial Intelligence (DSAI) — ITE10
-- Undergraduate student
+### Co-founder & Mentor — Penwin
+[Website](https://penwin.io.vn/)
+- Co-founded and mentored within a programming education initiative.
+- Supported programming education and problem-solving skill development.
 
-**High School for Gifted Students, Hanoi National University of Education (HNUE)**
-- Specialized high school program
+### Programming Teaching & CodeCamp Activities
+- Taught competitive programming to young learners.
+- Assisted students during programming bootcamps and CodeCamp activities.
 
----
+### Vibecode Project — StudyHub
+[Live Demo](https://studyhubdemo1-0.onrender.com/)
+- Developed an educational web application for creating classroom quizzes and exams from JSON question sets.
+- Explored adaptable quiz workflows for subjects such as IELTS, SAT, and Mathematics.
 
-## 🚀 Featured Project
+## SELECTED PROJECTS
 
 ### StudyHub — Interactive Quiz & Exam Platform
+**Focus:** Educational Technology, Web Development
+- Enables teachers to import questions from JSON files and generate quizzes or exams.
+- Designed for adaptation to different subjects and classroom needs.
+- [Try the Live Demo](https://studyhubdemo1-0.onrender.com/)
 
-An educational web application that allows teachers to upload JSON question sets and generate quizzes or exams for classroom use.
+### AI/ML Projects
+**Focus:** Computer Vision, NLP, Deep Learning, Time-Series Modeling
+- Experimented with deep learning architectures for computer vision and video classification.
+- Explored NLP workflows and machine learning approaches to financial time-series data.
+- Focused on model evaluation, experimentation, and generalization.
 
-- 📄 Import questions from JSON files.
-- 📝 Create quizzes and exams for classes.
-- 🧩 Adapt the platform to different subjects and learning needs, such as IELTS, SAT, and Mathematics.
-- 🌐 [Try StudyHub](https://studyhubdemo1-0.onrender.com/)
-
----
-
-## 🛠️ Technical Skills
+## TECHNICAL SKILLS
 
 **Programming Languages**
 - C, C++, C#, Python
@@ -66,19 +82,20 @@ An educational web application that allows teachers to upload JSON question sets
 - Computer Vision
 - Natural Language Processing
 - Time-Series Modeling
+- Model Evaluation and Optimization
 
-**Areas of Interest**
-- Competitive Programming & Algorithms
+**Core Competencies**
+- Competitive Programming and Algorithms
+- Problem-Solving
+- Programming Education and Mentoring
+
+## AREAS OF INTEREST
+
+- Artificial Intelligence Research
 - Quantitative Finance
-- AI Research & Model Optimization
+- Deep Learning Architectures
+- Algorithm Design and Optimization
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: [@lahuyhoang2008](https://github.com/lahuyhoang2008)
-- Email: [lahuyhoang2008@gmail.com](mailto:lahuyhoang2008@gmail.com)
-  
----
-
-*Learning by building. Improving through experimentation.*
+*Learn. Build. Compete. Share.*
