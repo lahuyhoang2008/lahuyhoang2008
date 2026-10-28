@@ -10,7 +10,7 @@
 **Date of Birth:** 19/6/2008
 
 <!-- Replace YOUR_IMAGE_URL with a publicly accessible image URL -->
-![Profile Photo](https://penwin.io.vn/materials/hoang.jpg)
+![Profile Photo](1793193214999_998598657152731246_998598657152731246_526b84edf04209bcc763d6f719d9faf2.jpg)
 
 ---
 
