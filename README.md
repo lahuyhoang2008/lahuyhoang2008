@@ -42,23 +42,11 @@ Experienced in algorithmic problem-solving, deep learning projects, and programm
 - 🥇 **Gold Prize** — VNU Competitive Programming Olympiad
 - 🥉 **Third Prize — Vietnam Olympiad in Informatics (VOI)**
 
-### Award Certificates
-
-<p align="center">
-  <img src="photos/1793193253436_7711387983109583281_7711387983109583281_3940e1669e8fb8800deb71cc538bb629.jpg" alt="Outstanding Student Certificate" width="160">
-  <img src="photos/1793193269156_7711387983109583281_7711387983109583281_701900995364e08caf0af07e4ed389cd.jpg" alt="Academic Excellence Certificate" width="160">
-  <img src="photos/1793193274352_7711387983109583281_7711387983109583281_e65014fc8a5c6193a24371f7118446de.jpg" alt="Gold Medal Certificate from the 15th Northern Delta and Coastal Region Contest" width="160">
-  <img src="photos/1793193278785_7711387983109583281_7711387983109583281_95b3d8aa2ed5281e7b99436a7c65df39.jpg" alt="HSGS Olympiad Gold Medal Certificate" width="160">
-  <img src="photos/1793193283552_7711387983109583281_7711387983109583281_0d4d7d77a6662c85200d3fd30ca68097.jpg" alt="First Prize Certificate in Informatics" width="160">
-  <img src="photos/1793193287912_7711387983109583281_7711387983109583281_3d1a7de0fc6bc57df232e9f07add3826.jpg" alt="VNU High School Olympic Certificate" width="160">
-  <img src="photos/1793193298041_7711387983109583281_7711387983109583281_83164b1227adf014527e9c8ce079728b.jpg" alt="Third Prize Certificate in Informatics" width="160">
-</p>
-
-### IELTS
+### Award & IELTS Evidence
 
 **Overall Band Score: 6.5**
 
-<img src="photos/ielts-score.jpg" alt="IELTS score breakdown with an overall band score of 6.5" width="520">
+![Award certificates and IELTS score arranged in a single rectangular gallery](photos/evidence-gallery.jpg)
 
 ## EXPERIENCE & LEADERSHIP
 
