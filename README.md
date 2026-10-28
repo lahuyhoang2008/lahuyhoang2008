@@ -44,21 +44,17 @@ Experienced in algorithmic problem-solving, deep learning projects, and programm
 
 ### Award Certificates
 
-<table>
-  <tr>
-    <td align="center"><img src="photos/1793193253436_7711387983109583281_7711387983109583281_3940e1669e8fb8800deb71cc538bb629.jpg" alt="Outstanding Student Certificate" width="220"><br><sub>Outstanding Student Certificate, 2025–2026</sub></td>
-    <td align="center"><img src="photos/1793193269156_7711387983109583281_7711387983109583281_701900995364e08caf0af07e4ed389cd.jpg" alt="Academic Excellence Certificate" width="220"><br><sub>Academic Excellence Certificate, 2023–2024</sub></td>
-    <td align="center"><img src="photos/1793193274352_7711387983109583281_7711387983109583281_e65014fc8a5c6193a24371f7118446de.jpg" alt="Gold Medal Certificate from the 15th Northern Delta and Coastal Region Contest" width="220"><br><sub>Gold Medal — 15th Northern Delta and Coastal Region Contest</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="photos/1793193278785_7711387983109583281_7711387983109583281_95b3d8aa2ed5281e7b99436a7c65df39.jpg" alt="HSGS Olympiad Gold Medal Certificate" width="220"><br><sub>HSGS Olympiad Gold Medal — Informatics, 2024</sub></td>
-    <td align="center"><img src="photos/1793193283552_7711387983109583281_7711387983109583281_0d4d7d77a6662c85200d3fd30ca68097.jpg" alt="First Prize Certificate in Informatics" width="220"><br><sub>First Prize — VNU High School Olympic, Informatics</sub></td>
-    <td align="center"><img src="photos/1793193287912_7711387983109583281_7711387983109583281_3d1a7de0fc6bc57df232e9f07add3826.jpg" alt="VNU High School Olympic Certificate" width="220"><br><sub>VNU High School Olympic Certificate</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="photos/1793193298041_7711387983109583281_7711387983109583281_83164b1227adf014527e9c8ce079728b.jpg" alt="Third Prize Certificate in Informatics" width="220"><br><sub>Third Prize Certificate — Informatics</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="photos/1793193253436_7711387983109583281_7711387983109583281_3940e1669e8fb8800deb71cc538bb629.jpg" alt="Outstanding Student Certificate" width="160">
+  <img src="photos/1793193269156_7711387983109583281_7711387983109583281_701900995364e08caf0af07e4ed389cd.jpg" alt="Academic Excellence Certificate" width="160">
+  <img src="photos/1793193274352_7711387983109583281_7711387983109583281_e65014fc8a5c6193a24371f7118446de.jpg" alt="Gold Medal Certificate from the 15th Northern Delta and Coastal Region Contest" width="160">
+  <br>
+  <img src="photos/1793193278785_7711387983109583281_7711387983109583281_95b3d8aa2ed5281e7b99436a7c65df39.jpg" alt="HSGS Olympiad Gold Medal Certificate" width="160">
+  <img src="photos/1793193283552_7711387983109583281_7711387983109583281_0d4d7d77a6662c85200d3fd30ca68097.jpg" alt="First Prize Certificate in Informatics" width="160">
+  <img src="photos/1793193287912_7711387983109583281_7711387983109583281_3d1a7de0fc6bc57df232e9f07add3826.jpg" alt="VNU High School Olympic Certificate" width="160">
+  <br>
+  <img src="photos/1793193298041_7711387983109583281_7711387983109583281_83164b1227adf014527e9c8ce079728b.jpg" alt="Third Prize Certificate in Informatics" width="160">
+</p>
 
 ## EXPERIENCE & LEADERSHIP
 
