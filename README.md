@@ -5,7 +5,7 @@
 📍 Northern Vietnam  
 🎓 Hanoi University of Science and Technology (HUST) — DSAI, ITE10  
 📧 [lahuyhoang2008@gmail.com](mailto:lahuyhoang2008@gmail.com)  
-💻 [GitHub Profile](https://github.com/lahuyhoang2008) | [Penwin](https://penwin.io.vn/)
+💻 [GitHub Profile](https://github.com/lahuyhoang2008) | [Kaggle](https://www.kaggle.com/lahuyhoang) | [Codeforces](https://codeforces.com/profile/lahuyhoang) | [VNOI OJ](https://oj.vnoi.info/user/lahuyhoang2008) | [Penwin](https://penwin.io.vn/)
 
 **Date of Birth:** 19/6/2008
 
